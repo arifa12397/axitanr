@@ -1,0 +1,175 @@
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+
+  /***********start***************/
+.end-header .btn-info{
+  margin-left: 30%;
+}
+.brand-panel .text h4{
+  text-align: center;
+}
+.brand-panel .text p{
+  text-align: center;
+}
+.brand-panel .social-icon {
+    text-align: center;
+}
+.features .feature1 .tab-button{
+  margin-left: 30%;
+}
+
+.feature1 .btn-info{
+  margin:30px;
+}
+.feather2 .img{
+  margin-left: -63%;
+}
+.feather3 .img{
+  margin-left: -63%;
+}
+.part .col-xl-2{
+  text-align: center;
+}
+.contact .d-flex{
+  margin-left: -65%;
+}
+.custom .btn .d-flex{
+  margin-left: -120%;
+  
+}
+.btn .d-flex{
+  margin-left: -70%;
+}
+.footer .col-xl-12 {
+  margin-left: -20%;
+padding: 30px 0px 0px;
+text-align: center;
+}
+.footer p{
+  text-align: center;
+margin-right: 60%;
+}
+
+
+
+  /***********End****************/
+
+}
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+
+  /***********start***************/
+  .end-header .btn-info{
+    margin-left: 40%;
+  }
+  .brand-panel .text h4{
+    text-align: center;
+  }
+  .brand-panel .text p{
+    text-align: center;
+  }
+  .brand-panel .social-icon {
+      text-align: center;
+  }
+
+  .features .feature1 .tab-button{
+    margin-left: 20%;
+  }
+
+  .feature1 .btn-info{
+    margin:30px;
+  }
+  .feather2 .img{
+    margin-left: -8%;
+  }
+  .feather3 .img{
+    margin-left: -8%;
+  }
+  .part .col-xl-2{
+    text-align: center;
+  }
+  .contact .d-flex{
+    margin-left: -50%;
+  }
+  .footer .col-xl-12 {
+    margin-left: -20%;
+  padding: 30px 0px 0px;
+  text-align: center;
+  }
+  .footer p{
+    text-align: center;
+  margin-right: 60%;
+  }
+
+
+
+
+
+
+  /***********End****************/
+
+}
+/*
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+
+  /***********start***************/
+  .brand-panel .text h4{
+    text-align: center;
+  }
+  .brand-panel .text p{
+    text-align: center;
+  }
+  .brand-panel .social-icon {
+      text-align: center;
+  }
+
+  .features .feature1 .tab-button{
+    margin-left: 20%;
+  }
+  .feature1 .btn-info{
+    margin:30px;
+  }
+  .feather2 .col-xl-6{
+    text-align: center;
+  }
+  .feather3 .col-xl-6{
+    text-align: center;
+  }
+
+.part .col-xl-2{
+  text-align: center;
+}
+.btn .d-flex{
+  margin-left: -120%;
+}
+.contact .d-flex{
+  margin-left: -35%;
+}
+
+.footer .col-xl-12 {
+  margin-left: -5%;
+}
+
+
+
+
+
+
+
+
+
+  /***********End****************/
+
+}
